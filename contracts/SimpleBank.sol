@@ -6,7 +6,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.5.16 <0.9.0;
 
-import '@openzeppelin/contracts/utils/Context.sol';
+import './Context.sol';
 
 contract SimpleBank is Context{
   
